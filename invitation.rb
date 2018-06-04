@@ -8,3 +8,5 @@ puts "What time is the party"
 time = gets.strip
 puts "What is the Host's name"
 host_name = gets.strip
+
+puts "hello #{guest_name}"
